@@ -17,7 +17,6 @@ public class Exercicio4 {
       int numeroEscolhido = leitor.nextInt();
       soma = soma + numeroEscolhido;
       contador++;
-
     }
     System.out.println("A soma dos números escolhidos é " + soma);
   }
